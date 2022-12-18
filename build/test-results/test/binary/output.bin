@@ -1,0 +1,2979 @@
+[1;31m
+Start test 1[0m
+)Please, enter the secret code's length:
+> 1
+3Input the number of possible symbols in the code:
+> 10
+ The secret is prepared: * (0-9)
+Okay, let's start a game!
+write your code: 
+> 0
+Grade: None.
+write your code: 
+> 1
+Grade: None.
+write your code: 
+> 2
+Grade: None.
+write your code: 
+> 3
+Grade: None.
+write your code: 
+> 4
+Grade: None.
+write your code: 
+> 5
+Grade: None.
+write your code: 
+> 6
+Grade: None.
+write your code: 
+> 7
+Grade: None.
+write your code: 
+> 8
+1 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 2[0m
+)Please, enter the secret code's length:
+> 4
+3Input the number of possible symbols in the code:
+> 10
+#The secret is prepared: **** (0-9)
+Okay, let's start a game!
+write your code: 
+> 0000
+Grade: None.
+write your code: 
+> 1111
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 2222
+Grade: None.
+write your code: 
+> 3333
+Grade: None.
+write your code: 
+> 4444
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 5555
+Grade: None.
+write your code: 
+> 6666
+Grade: None.
+write your code: 
+> 7777
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 8888
+Grade: None.
+write your code: 
+> 9999
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 1479
+Grade: 2 bulls and 2 cows.
+write your code: 
+> 4179
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 7149
+Grade: 4 cows.
+write your code: 
+> 1749
+Grade: 4 cows.
+write your code: 
+> 4719
+Grade: 4 cows.
+write your code: 
+> 7419
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 9417
+Grade: 2 bulls and 2 cows.
+write your code: 
+> 4917
+Grade: 4 cows.
+write your code: 
+> 1947
+Grade: 4 cows.
+write your code: 
+> 9147
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 4197
+Grade: 4 cows.
+write your code: 
+> 1497
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 1794
+Grade: 4 cows.
+write your code: 
+> 7194
+Grade: 4 cows.
+write your code: 
+> 9174
+Grade: 2 bulls and 2 cows.
+write your code: 
+> 1974
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 7914
+Grade: 4 cows.
+write your code: 
+> 9714
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 9741
+Grade: 2 bulls and 2 cows.
+write your code: 
+> 7941
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 4971
+Grade: 2 bulls and 2 cows.
+write your code: 
+> 9471
+4 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 3[0m
+)Please, enter the secret code's length:
+> 6
+3Input the number of possible symbols in the code:
+> 10
+%The secret is prepared: ****** (0-9)
+Okay, let's start a game!
+write your code: 
+	> 000000
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 111111
+Grade: None.
+write your code: 
+	> 222222
+Grade: None.
+write your code: 
+	> 333333
+Grade: None.
+write your code: 
+	> 444444
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 555555
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 666666
+Grade: None.
+write your code: 
+	> 777777
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 888888
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 999999
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 045789
+Grade: 6 cows.
+write your code: 
+	> 405789
+Grade: 6 cows.
+write your code: 
+	> 504789
+Grade: 6 cows.
+write your code: 
+	> 054789
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 450789
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 540789
+Grade: 6 cows.
+write your code: 
+	> 740589
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 470589
+Grade: 6 cows.
+write your code: 
+	> 074589
+Grade: 6 cows.
+write your code: 
+	> 704589
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 407589
+Grade: 6 cows.
+write your code: 
+	> 047589
+Grade: 6 cows.
+write your code: 
+	> 057489
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 507489
+Grade: 6 cows.
+write your code: 
+	> 705489
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 075489
+Grade: 6 cows.
+write your code: 
+	> 570489
+Grade: 6 cows.
+write your code: 
+	> 750489
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 754089
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 574089
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 475089
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 745089
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 547089
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 457089
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 857049
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 587049
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 785049
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 875049
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 578049
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 758049
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 058749
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 508749
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 805749
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 085749
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 580749
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 850749
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 870549
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 780549
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 087549
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 807549
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 708549
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 078549
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 075849
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 705849
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 507849
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 057849
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 750849
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 570849
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 470859
+Grade: 6 cows.
+write your code: 
+	> 740859
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 047859
+Grade: 6 cows.
+write your code: 
+	> 407859
+Grade: 6 cows.
+write your code: 
+	> 704859
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 074859
+Grade: 6 cows.
+write your code: 
+	> 874059
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 784059
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 487059
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 847059
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 748059
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 478059
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 408759
+Grade: 6 cows.
+write your code: 
+	> 048759
+Grade: 6 cows.
+write your code: 
+	> 840759
+Grade: 6 cows.
+write your code: 
+	> 480759
+Grade: 6 cows.
+write your code: 
+	> 084759
+Grade: 6 cows.
+write your code: 
+	> 804759
+Grade: 6 cows.
+write your code: 
+	> 807459
+Grade: 6 cows.
+write your code: 
+	> 087459
+Grade: 6 cows.
+write your code: 
+	> 780459
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 870459
+Grade: 6 cows.
+write your code: 
+	> 078459
+Grade: 6 cows.
+write your code: 
+	> 708459
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 508479
+Grade: 6 cows.
+write your code: 
+	> 058479
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 850479
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 580479
+Grade: 6 cows.
+write your code: 
+	> 085479
+Grade: 6 cows.
+write your code: 
+	> 805479
+Grade: 6 cows.
+write your code: 
+	> 405879
+Grade: 6 cows.
+write your code: 
+	> 045879
+Grade: 6 cows.
+write your code: 
+	> 540879
+Grade: 6 cows.
+write your code: 
+	> 450879
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 054879
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 504879
+Grade: 6 cows.
+write your code: 
+	> 584079
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 854079
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 458079
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 548079
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 845079
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 485079
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 480579
+Grade: 6 cows.
+write your code: 
+	> 840579
+Grade: 6 cows.
+write your code: 
+	> 048579
+Grade: 6 cows.
+write your code: 
+	> 408579
+Grade: 6 cows.
+write your code: 
+	> 804579
+Grade: 6 cows.
+write your code: 
+	> 084579
+Grade: 6 cows.
+write your code: 
+	> 784509
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 874509
+Grade: 6 cows.
+write your code: 
+	> 478509
+Grade: 6 cows.
+write your code: 
+	> 748509
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 847509
+Grade: 6 cows.
+write your code: 
+	> 487509
+Grade: 6 cows.
+write your code: 
+	> 587409
+Grade: 6 cows.
+write your code: 
+	> 857409
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 758409
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 578409
+Grade: 6 cows.
+write your code: 
+	> 875409
+Grade: 6 cows.
+write your code: 
+	> 785409
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 745809
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 475809
+Grade: 6 cows.
+write your code: 
+	> 574809
+Grade: 6 cows.
+write your code: 
+	> 754809
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 457809
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 547809
+Grade: 6 cows.
+write your code: 
+	> 548709
+Grade: 6 cows.
+write your code: 
+	> 458709
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 854709
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 584709
+Grade: 6 cows.
+write your code: 
+	> 485709
+Grade: 6 cows.
+write your code: 
+	> 845709
+Grade: 6 cows.
+write your code: 
+	> 945708
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 495708
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 594708
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 954708
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 459708
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 549708
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 749508
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 479508
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 974508
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 794508
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 497508
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 947508
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 957408
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 597408
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 795408
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 975408
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 579408
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 759408
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 754908
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 574908
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 475908
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 745908
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 547908
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 457908
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 057948
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 507948
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 705948
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 075948
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 570948
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 750948
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 950748
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 590748
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 095748
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 905748
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 509748
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 059748
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 079548
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 709548
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 907548
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 097548
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 790548
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 970548
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 975048
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 795048
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 597048
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 957048
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 759048
+6 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 4[0m
+)Please, enter the secret code's length:
+> 11
+3Input the number of possible symbols in the code:
+> 10
+YError: it's not possible to generate a code with a length of 11 with 10 unique symbols.
+[1;31m
+Start test 5[0m
+)Please, enter the secret code's length:
+> 4
+3Input the number of possible symbols in the code:
+> 16
+*The secret is prepared: **** (0 - 9, a-f)
+Okay, let's start a game!
+write your code: 
+> 0000
+Grade: None.
+write your code: 
+> 1111
+Grade: None.
+write your code: 
+> 2222
+Grade: None.
+write your code: 
+> 3333
+Grade: None.
+write your code: 
+> 4444
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 5555
+Grade: None.
+write your code: 
+> 6666
+Grade: None.
+write your code: 
+> 7777
+Grade: None.
+write your code: 
+> 8888
+Grade: None.
+write your code: 
+> 9999
+Grade: None.
+write your code: 
+> aaaa
+Grade: 1 bulls and 3 cows.
+write your code: 
+> bbbb
+Grade: 1 bulls and 3 cows.
+write your code: 
+> cccc
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 4abc
+Grade: 1 bulls and 3 cows.
+write your code: 
+> a4bc
+Grade: 4 cows.
+write your code: 
+> b4ac
+Grade: 4 cows.
+write your code: 
+> 4bac
+Grade: 2 bulls and 2 cows.
+write your code: 
+> ab4c
+Grade: 1 bulls and 3 cows.
+write your code: 
+> ba4c
+Grade: 4 cows.
+write your code: 
+> ca4b
+Grade: 4 cows.
+write your code: 
+> ac4b
+Grade: 4 cows.
+write your code: 
+> 4cab
+Grade: 1 bulls and 3 cows.
+write your code: 
+> c4ab
+Grade: 4 cows.
+write your code: 
+> a4cb
+Grade: 1 bulls and 3 cows.
+write your code: 
+> 4acb
+Grade: 2 bulls and 2 cows.
+write your code: 
+> 4bca
+4 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 6[0m
+)Please, enter the secret code's length:
+> 6
+3Input the number of possible symbols in the code:
+> 36
+,The secret is prepared: ****** (0 - 9, a-z)
+Okay, let's start a game!
+write your code: 
+	> 000000
+Grade: None.
+write your code: 
+	> 111111
+Grade: None.
+write your code: 
+	> 222222
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 333333
+Grade: None.
+write your code: 
+	> 444444
+Grade: None.
+write your code: 
+	> 555555
+Grade: None.
+write your code: 
+	> 666666
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 777777
+Grade: None.
+write your code: 
+	> 888888
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 999999
+Grade: None.
+write your code: 
+	> aaaaaa
+Grade: None.
+write your code: 
+	> bbbbbb
+Grade: None.
+write your code: 
+	> cccccc
+Grade: None.
+write your code: 
+	> dddddd
+Grade: None.
+write your code: 
+	> eeeeee
+Grade: None.
+write your code: 
+	> ffffff
+Grade: None.
+write your code: 
+	> gggggg
+Grade: None.
+write your code: 
+	> hhhhhh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> iiiiii
+Grade: None.
+write your code: 
+	> jjjjjj
+Grade: None.
+write your code: 
+	> kkkkkk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> llllll
+Grade: None.
+write your code: 
+	> mmmmmm
+Grade: None.
+write your code: 
+	> nnnnnn
+Grade: None.
+write your code: 
+	> oooooo
+Grade: None.
+write your code: 
+	> pppppp
+Grade: None.
+write your code: 
+	> qqqqqq
+Grade: None.
+write your code: 
+	> rrrrrr
+Grade: None.
+write your code: 
+	> ssssss
+Grade: None.
+write your code: 
+	> tttttt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 268hkt
+Grade: 6 cows.
+write your code: 
+	> 628hkt
+Grade: 6 cows.
+write your code: 
+	> 826hkt
+Grade: 6 cows.
+write your code: 
+	> 286hkt
+Grade: 6 cows.
+write your code: 
+	> 682hkt
+Grade: 6 cows.
+write your code: 
+	> 862hkt
+Grade: 6 cows.
+write your code: 
+	> h628kt
+Grade: 6 cows.
+write your code: 
+	> 6h28kt
+Grade: 6 cows.
+write your code: 
+	> 2h68kt
+Grade: 6 cows.
+write your code: 
+	> h268kt
+Grade: 6 cows.
+write your code: 
+	> 62h8kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26h8kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28h6kt
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 82h6kt
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h286kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2h86kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8h26kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h826kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h862kt
+Grade: 6 cows.
+write your code: 
+	> 8h62kt
+Grade: 6 cows.
+write your code: 
+	> 6h82kt
+Grade: 6 cows.
+write your code: 
+	> h682kt
+Grade: 6 cows.
+write your code: 
+	> 86h2kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 68h2kt
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k8h26t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8kh26t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> hk826t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh826t
+Grade: 6 cows.
+write your code: 
+	> 8hk26t
+Grade: 6 cows.
+write your code: 
+	> h8k26t
+Grade: 6 cows.
+write your code: 
+	> 28kh6t
+Grade: 6 cows.
+write your code: 
+	> 82kh6t
+Grade: 6 cows.
+write your code: 
+	> k28h6t
+Grade: 6 cows.
+write your code: 
+	> 2k8h6t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8k2h6t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k82h6t
+Grade: 6 cows.
+write your code: 
+	> kh286t
+Grade: 6 cows.
+write your code: 
+	> hk286t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2kh86t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k2h86t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h2k86t
+Grade: 6 cows.
+write your code: 
+	> 2hk86t
+Grade: 6 cows.
+write your code: 
+	> 2h8k6t
+Grade: 6 cows.
+write your code: 
+	> h28k6t
+Grade: 6 cows.
+write your code: 
+	> 82hk6t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28hk6t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h82k6t
+Grade: 6 cows.
+write your code: 
+	> 8h2k6t
+Grade: 6 cows.
+write your code: 
+	> 6h2k8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h62k8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26hk8t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 62hk8t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h26k8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2h6k8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh628t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hk628t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6kh28t
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k6h28t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h6k28t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6hk28t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 62kh8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26kh8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k62h8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6k2h8t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2k6h8t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k26h8t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k2h68t
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 2kh68t
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> hk268t
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kh268t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2hk68t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h2k68t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 82k6ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28k6ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k826ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8k26ht
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2k86ht
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k286ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 628kht
+Grade: 6 cows.
+write your code: 
+	> 268kht
+Grade: 6 cows.
+write your code: 
+	> 862kht
+Grade: 6 cows.
+write your code: 
+	> 682kht
+Grade: 6 cows.
+write your code: 
+	> 286kht
+Grade: 6 cows.
+write your code: 
+	> 826kht
+Grade: 6 cows.
+write your code: 
+	> 8k62ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k862ht
+Grade: 6 cows.
+write your code: 
+	> 68k2ht
+Grade: 6 cows.
+write your code: 
+	> 86k2ht
+Grade: 6 cows.
+write your code: 
+	> k682ht
+Grade: 6 cows.
+write your code: 
+	> 6k82ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6k28ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k628ht
+Grade: 6 cows.
+write your code: 
+	> 26k8ht
+Grade: 6 cows.
+write your code: 
+	> 62k8ht
+Grade: 6 cows.
+write your code: 
+	> k268ht
+Grade: 6 cows.
+write your code: 
+	> 2k68ht
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hk682t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh682t
+Grade: 6 cows.
+write your code: 
+	> 6hk82t
+Grade: 6 cows.
+write your code: 
+	> h6k82t
+Grade: 6 cows.
+write your code: 
+	> k6h82t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6kh82t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8kh62t
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k8h62t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h8k62t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8hk62t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh862t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hk862t
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h68k2t
+Grade: 6 cows.
+write your code: 
+	> 6h8k2t
+Grade: 6 cows.
+write your code: 
+	> 8h6k2t
+Grade: 6 cows.
+write your code: 
+	> h86k2t
+Grade: 6 cows.
+write your code: 
+	> 68hk2t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 86hk2t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 86kh2t
+Grade: 6 cows.
+write your code: 
+	> 68kh2t
+Grade: 6 cows.
+write your code: 
+	> k86h2t
+Grade: 6 cows.
+write your code: 
+	> 8k6h2t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6k8h2t
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k68h2t
+Grade: 6 cows.
+write your code: 
+	> t68h2k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t8h2k
+Grade: 6 cows.
+write your code: 
+	> 8t6h2k
+Grade: 6 cows.
+write your code: 
+	> t86h2k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 68th2k
+Grade: 6 cows.
+write your code: 
+	> 86th2k
+Grade: 6 cows.
+write your code: 
+	> h6t82k
+Grade: 6 cows.
+write your code: 
+	> 6ht82k
+Grade: 6 cows.
+write your code: 
+	> th682k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht682k
+Grade: 6 cows.
+write your code: 
+	> 6th82k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t6h82k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> t8h62k
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 8th62k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> ht862k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th862k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8ht62k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h8t62k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h86t2k
+Grade: 6 cows.
+write your code: 
+	> 8h6t2k
+Grade: 6 cows.
+write your code: 
+	> 6h8t2k
+Grade: 6 cows.
+write your code: 
+	> h68t2k
+Grade: 6 cows.
+write your code: 
+	> 86ht2k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 68ht2k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28ht6k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 82ht6k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h28t6k
+Grade: 6 cows.
+write your code: 
+	> 2h8t6k
+Grade: 6 cows.
+write your code: 
+	> 8h2t6k
+Grade: 6 cows.
+write your code: 
+	> h82t6k
+Grade: 6 cows.
+write your code: 
+	> t82h6k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8t2h6k
+Grade: 6 cows.
+write your code: 
+	> 2t8h6k
+Grade: 6 cows.
+write your code: 
+	> t28h6k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 82th6k
+Grade: 6 cows.
+write your code: 
+	> 28th6k
+Grade: 6 cows.
+write your code: 
+	> 2ht86k
+Grade: 6 cows.
+write your code: 
+	> h2t86k
+Grade: 6 cows.
+write your code: 
+	> t2h86k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2th86k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht286k
+Grade: 6 cows.
+write your code: 
+	> th286k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th826k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht826k
+Grade: 6 cows.
+write your code: 
+	> 8th26k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t8h26k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h8t26k
+Grade: 6 cows.
+write your code: 
+	> 8ht26k
+Grade: 6 cows.
+write your code: 
+	> 6ht28k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h6t28k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t6h28k
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 6th28k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> ht628k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th628k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2h6t8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h26t8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 62ht8k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 26ht8k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h62t8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6h2t8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t2h8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t62h8k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 26th8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 62th8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t26h8k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2t6h8k
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2th68k
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> t2h68k
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> h2t68k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2ht68k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> th268k
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> ht268k
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8t26hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t826hk
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 28t6hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 82t6hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t286hk
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2t86hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t82hk
+Grade: 6 cows.
+write your code: 
+	> t682hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 86t2hk
+Grade: 6 cows.
+write your code: 
+	> 68t2hk
+Grade: 6 cows.
+write your code: 
+	> t862hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8t62hk
+Grade: 6 cows.
+write your code: 
+	> 826thk
+Grade: 6 cows.
+write your code: 
+	> 286thk
+Grade: 6 cows.
+write your code: 
+	> 682thk
+Grade: 6 cows.
+write your code: 
+	> 862thk
+Grade: 6 cows.
+write your code: 
+	> 268thk
+Grade: 6 cows.
+write your code: 
+	> 628thk
+Grade: 6 cows.
+write your code: 
+	> 62t8hk
+Grade: 6 cows.
+write your code: 
+	> 26t8hk
+Grade: 6 cows.
+write your code: 
+	> t628hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t28hk
+Grade: 6 cows.
+write your code: 
+	> 2t68hk
+Grade: 6 cows.
+write your code: 
+	> t268hk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h268tk
+Grade: 6 cows.
+write your code: 
+	> 2h68tk
+Grade: 6 cows.
+write your code: 
+	> 6h28tk
+Grade: 6 cows.
+write your code: 
+	> h628tk
+Grade: 6 cows.
+write your code: 
+	> 26h8tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 62h8tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 82h6tk
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 28h6tk
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h826tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8h26tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2h86tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h286tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h682tk
+Grade: 6 cows.
+write your code: 
+	> 6h82tk
+Grade: 6 cows.
+write your code: 
+	> 8h62tk
+Grade: 6 cows.
+write your code: 
+	> h862tk
+Grade: 6 cows.
+write your code: 
+	> 68h2tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 86h2tk
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 862htk
+Grade: 6 cows.
+write your code: 
+	> 682htk
+Grade: 6 cows.
+write your code: 
+	> 286htk
+Grade: 6 cows.
+write your code: 
+	> 826htk
+Grade: 6 cows.
+write your code: 
+	> 628htk
+Grade: 6 cows.
+write your code: 
+	> 268htk
+Grade: 6 cows.
+write your code: 
+	> 2k8ht6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k28ht6
+Grade: 6 cows.
+write your code: 
+	> 82kht6
+Grade: 6 cows.
+write your code: 
+	> 28kht6
+Grade: 6 cows.
+write your code: 
+	> k82ht6
+Grade: 6 cows.
+write your code: 
+	> 8k2ht6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hk28t6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh28t6
+Grade: 6 cows.
+write your code: 
+	> 2hk8t6
+Grade: 6 cows.
+write your code: 
+	> h2k8t6
+Grade: 6 cows.
+write your code: 
+	> k2h8t6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2kh8t6
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 28hkt6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 82hkt6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h28kt6
+Grade: 6 cows.
+write your code: 
+	> 2h8kt6
+Grade: 6 cows.
+write your code: 
+	> 8h2kt6
+Grade: 6 cows.
+write your code: 
+	> h82kt6
+Grade: 6 cows.
+write your code: 
+	> h8k2t6
+Grade: 6 cows.
+write your code: 
+	> 8hk2t6
+Grade: 6 cows.
+write your code: 
+	> kh82t6
+Grade: 6 cows.
+write your code: 
+	> hk82t6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8kh2t6
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k8h2t6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t8h2k6
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8th2k6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht82k6
+Grade: 6 cows.
+write your code: 
+	> th82k6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8ht2k6
+Grade: 6 cows.
+write your code: 
+	> h8t2k6
+Grade: 6 cows.
+write your code: 
+	> 28thk6
+Grade: 6 cows.
+write your code: 
+	> 82thk6
+Grade: 6 cows.
+write your code: 
+	> t28hk6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2t8hk6
+Grade: 6 cows.
+write your code: 
+	> 8t2hk6
+Grade: 6 cows.
+write your code: 
+	> t82hk6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th28k6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht28k6
+Grade: 6 cows.
+write your code: 
+	> 2th8k6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t2h8k6
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h2t8k6
+Grade: 6 cows.
+write your code: 
+	> 2ht8k6
+Grade: 6 cows.
+write your code: 
+	> 2h8tk6
+Grade: 6 cows.
+write your code: 
+	> h28tk6
+Grade: 6 cows.
+write your code: 
+	> 82htk6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28htk6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h82tk6
+Grade: 6 cows.
+write your code: 
+	> 8h2tk6
+Grade: 6 cows.
+write your code: 
+	> kh2t86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hk2t86
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2kht86
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k2ht86
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h2kt86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2hkt86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> thk286
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> htk286
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kth286
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tkh286
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> hkt286
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kht286
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k2th86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2kth86
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk2h86
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kt2h86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2tkh86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t2kh86
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> t2hk86
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 2thk86
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> ht2k86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th2k86
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2htk86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h2tk86
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 82tkh6
+Grade: 6 cows.
+write your code: 
+	> 28tkh6
+Grade: 6 cows.
+write your code: 
+	> t82kh6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8t2kh6
+Grade: 6 cows.
+write your code: 
+	> 2t8kh6
+Grade: 6 cows.
+write your code: 
+	> t28kh6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k28th6
+Grade: 6 cows.
+write your code: 
+	> 2k8th6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8k2th6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k82th6
+Grade: 6 cows.
+write your code: 
+	> 28kth6
+Grade: 6 cows.
+write your code: 
+	> 82kth6
+Grade: 6 cows.
+write your code: 
+	> 8tk2h6
+Grade: 6 cows.
+write your code: 
+	> t8k2h6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k8t2h6
+Grade: 6 cows.
+write your code: 
+	> 8kt2h6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> tk82h6
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kt82h6
+Grade: 6 cows.
+write your code: 
+	> kt28h6
+Grade: 6 cows.
+write your code: 
+	> tk28h6
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2kt8h6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k2t8h6
+Grade: 6 cows.
+write your code: 
+	> t2k8h6
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2tk8h6
+Grade: 6 cows.
+write your code: 
+	> htk826
+Grade: 6 cows.
+write your code: 
+	> thk826
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kht826
+Grade: 6 cows.
+write your code: 
+	> hkt826
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> tkh826
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kth826
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8thk26
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t8hk26
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h8tk26
+Grade: 6 cows.
+write your code: 
+	> 8htk26
+Grade: 6 cows.
+write your code: 
+	> th8k26
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht8k26
+Grade: 6 cows.
+write your code: 
+	> hk8t26
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh8t26
+Grade: 6 cows.
+write your code: 
+	> 8hkt26
+Grade: 6 cows.
+write your code: 
+	> h8kt26
+Grade: 6 cows.
+write your code: 
+	> k8ht26
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8kht26
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8kth26
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k8th26
+Grade: 6 cows.
+write your code: 
+	> t8kh26
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8tkh26
+Grade: 6 cows.
+write your code: 
+	> kt8h26
+Grade: 6 cows.
+write your code: 
+	> tk8h26
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk6h28
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kt6h28
+Grade: 6 cows.
+write your code: 
+	> 6tkh28
+Grade: 6 cows.
+write your code: 
+	> t6kh28
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k6th28
+Grade: 6 cows.
+write your code: 
+	> 6kth28
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hkt628
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kht628
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> thk628
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> htk628
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kth628
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tkh628
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> t6hk28
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6thk28
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht6k28
+Grade: 6 cows.
+write your code: 
+	> th6k28
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6htk28
+Grade: 6 cows.
+write your code: 
+	> h6tk28
+Grade: 6 cows.
+write your code: 
+	> h6kt28
+Grade: 6 cows.
+write your code: 
+	> 6hkt28
+Grade: 6 cows.
+write your code: 
+	> kh6t28
+Grade: 6 cows.
+write your code: 
+	> hk6t28
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6kht28
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k6ht28
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26htk8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 62htk8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h26tk8
+Grade: 6 cows.
+write your code: 
+	> 2h6tk8
+Grade: 6 cows.
+write your code: 
+	> 6h2tk8
+Grade: 6 cows.
+write your code: 
+	> h62tk8
+Grade: 6 cows.
+write your code: 
+	> t62hk8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t2hk8
+Grade: 6 cows.
+write your code: 
+	> 2t6hk8
+Grade: 6 cows.
+write your code: 
+	> t26hk8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 62thk8
+Grade: 6 cows.
+write your code: 
+	> 26thk8
+Grade: 6 cows.
+write your code: 
+	> 2ht6k8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h2t6k8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t2h6k8
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 2th6k8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> ht26k8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th26k8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> th62k8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht62k8
+Grade: 6 cows.
+write your code: 
+	> 6th2k8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t6h2k8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h6t2k8
+Grade: 6 cows.
+write your code: 
+	> 6ht2k8
+Grade: 6 cows.
+write your code: 
+	> kht268
+Grade: 6 cows.
+write your code: 
+	> hkt268
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> tkh268
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kth268
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> htk268
+Grade: 6 cows.
+write your code: 
+	> thk268
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2hkt68
+Grade: 6 cows.
+write your code: 
+	> h2kt68
+Grade: 6 cows.
+write your code: 
+	> k2ht68
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2kht68
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> hk2t68
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh2t68
+Grade: 6 cows.
+write your code: 
+	> kt2h68
+Grade: 6 cows.
+write your code: 
+	> tk2h68
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2kth68
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k2th68
+Grade: 6 cows.
+write your code: 
+	> t2kh68
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2tkh68
+Grade: 6 cows.
+write your code: 
+	> 2thk68
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t2hk68
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h2tk68
+Grade: 6 cows.
+write your code: 
+	> 2htk68
+Grade: 6 cows.
+write your code: 
+	> th2k68
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht2k68
+Grade: 6 cows.
+write your code: 
+	> 6t2kh8
+Grade: 6 cows.
+write your code: 
+	> t62kh8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26tkh8
+Grade: 6 cows.
+write your code: 
+	> 62tkh8
+Grade: 6 cows.
+write your code: 
+	> t26kh8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2t6kh8
+Grade: 6 cows.
+write your code: 
+	> kt62h8
+Grade: 6 cows.
+write your code: 
+	> tk62h8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6kt2h8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k6t2h8
+Grade: 6 cows.
+write your code: 
+	> t6k2h8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6tk2h8
+Grade: 6 cows.
+write your code: 
+	> 62kth8
+Grade: 6 cows.
+write your code: 
+	> 26kth8
+Grade: 6 cows.
+write your code: 
+	> k62th8
+Grade: 6 cows.
+write your code: 
+	> 6k2th8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2k6th8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k26th8
+Grade: 6 cows.
+write your code: 
+	> k2t6h8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2kt6h8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk26h8
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kt26h8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2tk6h8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t2k6h8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h2k6t8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2hk6t8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh26t8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hk26t8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 2kh6t8
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k2h6t8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 62hkt8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26hkt8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h62kt8
+Grade: 6 cows.
+write your code: 
+	> 6h2kt8
+Grade: 6 cows.
+write your code: 
+	> 2h6kt8
+Grade: 6 cows.
+write your code: 
+	> h26kt8
+Grade: 6 cows.
+write your code: 
+	> hk62t8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh62t8
+Grade: 6 cows.
+write your code: 
+	> 6hk2t8
+Grade: 6 cows.
+write your code: 
+	> h6k2t8
+Grade: 6 cows.
+write your code: 
+	> k6h2t8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6kh2t8
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6k2ht8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k62ht8
+Grade: 6 cows.
+write your code: 
+	> 26kht8
+Grade: 6 cows.
+write your code: 
+	> 62kht8
+Grade: 6 cows.
+write your code: 
+	> k26ht8
+Grade: 6 cows.
+write your code: 
+	> 2k6ht8
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2k68th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k268th
+Grade: 6 cows.
+write your code: 
+	> 62k8th
+Grade: 6 cows.
+write your code: 
+	> 26k8th
+Grade: 6 cows.
+write your code: 
+	> k628th
+Grade: 6 cows.
+write your code: 
+	> 6k28th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8k26th
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k826th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28k6th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 82k6th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k286th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2k86th
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 268kth
+Grade: 6 cows.
+write your code: 
+	> 628kth
+Grade: 6 cows.
+write your code: 
+	> 826kth
+Grade: 6 cows.
+write your code: 
+	> 286kth
+Grade: 6 cows.
+write your code: 
+	> 682kth
+Grade: 6 cows.
+write your code: 
+	> 862kth
+Grade: 6 cows.
+write your code: 
+	> 86k2th
+Grade: 6 cows.
+write your code: 
+	> 68k2th
+Grade: 6 cows.
+write your code: 
+	> k862th
+Grade: 6 cows.
+write your code: 
+	> 8k62th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6k82th
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k682th
+Grade: 6 cows.
+write your code: 
+	> t682kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t82kh
+Grade: 6 cows.
+write your code: 
+	> 8t62kh
+Grade: 6 cows.
+write your code: 
+	> t862kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 68t2kh
+Grade: 6 cows.
+write your code: 
+	> 86t2kh
+Grade: 6 cows.
+write your code: 
+	> 26t8kh
+Grade: 6 cows.
+write your code: 
+	> 62t8kh
+Grade: 6 cows.
+write your code: 
+	> t268kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2t68kh
+Grade: 6 cows.
+write your code: 
+	> 6t28kh
+Grade: 6 cows.
+write your code: 
+	> t628kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t826kh
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8t26kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2t86kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t286kh
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 82t6kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28t6kh
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 286tkh
+Grade: 6 cows.
+write your code: 
+	> 826tkh
+Grade: 6 cows.
+write your code: 
+	> 628tkh
+Grade: 6 cows.
+write your code: 
+	> 268tkh
+Grade: 6 cows.
+write your code: 
+	> 862tkh
+Grade: 6 cows.
+write your code: 
+	> 682tkh
+Grade: 6 cows.
+write your code: 
+	> k82t6h
+Grade: 6 cows.
+write your code: 
+	> 8k2t6h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2k8t6h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k28t6h
+Grade: 6 cows.
+write your code: 
+	> 82kt6h
+Grade: 6 cows.
+write your code: 
+	> 28kt6h
+Grade: 6 cows.
+write your code: 
+	> t8k26h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8tk26h
+Grade: 6 cows.
+write your code: 
+	> kt826h
+Grade: 6 cows.
+write your code: 
+	> tk826h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8kt26h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k8t26h
+Grade: 6 cows.
+write your code: 
+	> k2t86h
+Grade: 6 cows.
+write your code: 
+	> 2kt86h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> tk286h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kt286h
+Grade: 6 cows.
+write your code: 
+	> 2tk86h
+Grade: 6 cows.
+write your code: 
+	> t2k86h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t28k6h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2t8k6h
+Grade: 6 cows.
+write your code: 
+	> 8t2k6h
+Grade: 6 cows.
+write your code: 
+	> t82k6h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 28tk6h
+Grade: 6 cows.
+write your code: 
+	> 82tk6h
+Grade: 6 cows.
+write your code: 
+	> 62tk8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26tk8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t62k8h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6t2k8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2t6k8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t26k8h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k26t8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 2k6t8h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6k2t8h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k62t8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 26kt8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 62kt8h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6tk28h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t6k28h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k6t28h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6kt28h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk628h
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kt628h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kt268h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk268h
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 2kt68h
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k2t68h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> t2k68h
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 2tk68h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8tk62h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t8k62h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k8t62h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8kt62h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk862h
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kt862h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t8k2h
+Grade: 6 cows.
+write your code: 
+	> t68k2h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 86tk2h
+Grade: 6 cows.
+write your code: 
+	> 68tk2h
+Grade: 6 cows.
+write your code: 
+	> t86k2h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8t6k2h
+Grade: 6 cows.
+write your code: 
+	> 8k6t2h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k86t2h
+Grade: 6 cows.
+write your code: 
+	> 68kt2h
+Grade: 6 cows.
+write your code: 
+	> 86kt2h
+Grade: 6 cows.
+write your code: 
+	> k68t2h
+Grade: 6 cows.
+write your code: 
+	> 6k8t2h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6kt82h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k6t82h
+Grade: 6 cows.
+write your code: 
+	> t6k82h
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6tk82h
+Grade: 6 cows.
+write your code: 
+	> kt682h
+Grade: 6 cows.
+write your code: 
+	> tk682h
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk68h2
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kt68h2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6tk8h2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t6k8h2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k6t8h2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6kt8h2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8kt6h2
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k8t6h2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> t8k6h2
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 8tk6h2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kt86h2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk86h2
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> t68kh2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6t8kh2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8t6kh2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t86kh2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 68tkh2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 86tkh2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 86kth2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 68kth2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k86th2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8k6th2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6k8th2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k68th2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h68tk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6h8tk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8h6tk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h86tk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 68htk2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 86htk2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> t6h8k2
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 6th8k2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> ht68k2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th68k2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6ht8k2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h6t8k2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h8t6k2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8ht6k2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> th86k2
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> ht86k2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8th6k2
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> t8h6k2
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> t86hk2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8t6hk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 6t8hk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t68hk2
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 86thk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 68thk2
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> k8th62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8kth62
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk8h62
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kt8h62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8tkh62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t8kh62
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h8kt62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> 8hkt62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> kh8t62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> hk8t62
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8kht62
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k8ht62
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kth862
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tkh862
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> hkt862
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kht862
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> thk862
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> htk862
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> ht8k62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> th8k62
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 8htk62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> h8tk62
+Grade: 1 bulls and 5 cows.
+write your code: 
+	> t8hk62
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 8thk62
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6thk82
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> t6hk82
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> h6tk82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6htk82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> th6k82
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> ht6k82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kt6h82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> tk6h82
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> 6kth82
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> k6th82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> t6kh82
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 6tkh82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> 6hkt82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> h6kt82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> k6ht82
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> 6kht82
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> hk6t82
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> kh6t82
+Grade: 2 bulls and 4 cows.
+write your code: 
+	> kht682
+Grade: 3 bulls and 3 cows.
+write your code: 
+	> hkt682
+Grade: 4 bulls and 2 cows.
+write your code: 
+	> tkh682
+6 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 7[0m
+)Please, enter the secret code's length:
+> 0
+3Input the number of possible symbols in the code:
+> 1
+ Error: 0 isn't a valid number.
+[1;31m
+Start test 8[0m
+)Please, enter the secret code's length:
+> 10
+3Input the number of possible symbols in the code:
+> 9
+XError: it's not possible to generate a code with a length of 10 with 9 unique symbols.
+[1;31m
+Start test 9[0m
+)Please, enter the secret code's length:
+> 9
+3Input the number of possible symbols in the code:
+> 37
+IError: maximum number of possible symbols in the code is 36 (0-9, a-z).
+[1;31m
+Start test 10[0m
+)Please, enter the secret code's length:
+> abcdefg 1 -6
++Error: abcdefg 1 -6 isn't a valid number.
